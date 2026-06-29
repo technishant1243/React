@@ -9,6 +9,7 @@ import Login from './useStatehooks/Login'
 import UseRef from './useRefHook/UseRef'
 // import UncontrolledForms from './useRefHook/UncontrolledForms'
 import Uncontrollled from './useRefHook/Uncontrollled'
+import Components11 from './UseEffect/Components11'
 
 const App = () => {
   return (
@@ -28,7 +29,9 @@ const App = () => {
 
 {/* <UncontrolledForms/> */}
 
-<Uncontrollled/>
+{/* <Uncontrollled/> */}
+
+<Components11/>
       </div>
   )
 }
