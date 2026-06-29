@@ -1,0 +1,6 @@
+useref ek hook h jo ek mutable value(jo change ho sake) ko store karne ke liye use kiya jata hai
+useref m object return karta hai aur es m component Re-render nhi hota hai.
+To display outside we use useref
+
+//Controlled forms=UseState
+//uncontrolled forms=useRef
